@@ -3,6 +3,8 @@
     border: 3px solid black;
     margin: 20px;
     padding:20px;
+    border-top-left-radius:50px;
+    border-bottom-right-radius:50px;
 }
 #rana{
     text-align: center;
